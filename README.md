@@ -6,4 +6,4 @@ The game is only just in its first stage, future updates would contain different
 * Clone the repository to your local system
 * Install ***python*** on your local system if not already installed.
 * Run the __main.py__ file on your local terminal.
-* Play the game using the direction buttons on yor keyboard.
+* Play the game using the direction buttons on your keyboard.
